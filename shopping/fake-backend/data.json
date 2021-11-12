@@ -1,0 +1,86 @@
+{   
+    "cart" : [],
+    "products": [
+        {
+            "id": 1,
+            "title": "Phone",
+            "brand": "Apple",
+            "price": "100",
+            "quantity": "5",
+            "details": "İphone X",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 2,
+            "title": "Phone",
+            "brand": "Apple",
+            "price": "200",
+            "quantity": "8",
+            "details": "İphone 10",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 3,
+            "title": "Phone",
+            "brand": "Apple",
+            "price": "300",
+            "quantity": "10",
+            "details": "İphone 11",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 4,
+            "title": "Phone",
+            "brand": "Apple",
+            "price": "400",
+            "quantity": "3",
+            "details": "İphone 12",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 5,
+            "title": "Phone",
+            "brand": "Apple",
+            "price": "300",
+            "quantity": "50",
+            "details": "İphone 13",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 6,
+            "title": "Phone",
+            "brand": "Samsung",
+            "price": "350",
+            "quantity": "30",
+            "details": "Samsung Pro",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 7,
+            "title": "Phone",
+            "brand": "Samsung",
+            "price": "550",
+            "quantity": "20",
+            "details": "Samsung A",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 8,
+            "title": "Television",
+            "brand": "Samsung",
+            "price": "350",
+            "quantity": "15",
+            "details": "Samsung 1",
+            "img": "https://via.placeholder.com/150x100"
+        },
+        {
+            "id": 9,
+            "title": "Television",
+            "brand": "Samsung",
+            "price": "350",
+            "quantity": "100",
+            "details": "Samsung 2",
+            "img": "https://via.placeholder.com/150x100"
+        }
+    ]
+}
